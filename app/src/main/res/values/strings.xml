@@ -3,4 +3,13 @@
     <string name="birth_rate">CRUDE BIRTH RATE</string>
     <string name="value">VALUE</string>
     <string name="year">YEAR</string>
+    <string name="search">Search</string>
+    <string-array name="year_period">
+        <item>1960s</item>
+        <item>1970s</item>
+        <item>1980s</item>
+        <item>1990s</item>
+        <item>2000s</item>
+        <item>2010s</item>
+    </string-array>
 </resources>
